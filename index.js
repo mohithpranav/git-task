@@ -17,3 +17,5 @@ for (let arr of array) {
 }
 
 console.log(values);
+
+console.log("chenged in clone ");
